@@ -1,6 +1,6 @@
 # Pingo
 
-Este projeto é um projeto utilizando React, React Redux e Redux Saga
+Este é um projeto utilizando React, React Redux e Redux Saga
 
 ## Começando 🔥 🔥🔥
 
@@ -20,14 +20,13 @@ As ferramentas necessárias para o desenvolvimento são:
 
 Primeiro, clone o repositório:
 * HTTP:
-### `git clone `
-
+### `git clone https://github.com/jorgecrodrigues/pingo.git`
 
 **ou**
 
 * SSH
 
-### `git clone `
+### `git clone git@github.com:jorgecrodrigues/pingo.git`
 
 
 Depois, mude para o diretório do projeto:
